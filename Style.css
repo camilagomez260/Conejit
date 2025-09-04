@@ -126,9 +126,9 @@ body {
 .profile-photo {
     width: 350px;
     height: 350px;
-    border-radius: 50%;
+    border-radius: 40%;
     object-fit: cover;
-    border: 20px solid #71ade6;
+    border: 20px solid #58b8e4;
     margin-bottom: 1rem;
 }
 
@@ -281,3 +281,4 @@ del area de Estudios realizados y experiencia laboral*/
     }
 
 }
+
